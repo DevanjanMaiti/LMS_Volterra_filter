@@ -16,3 +16,5 @@ This project contains the source code for the LMS implementation of a 3rd order,
 	6. xt_main.c		     Main C code
 	
 --------------------------------------------------------------------------------------------------------------------------
+
+The MATLAB code execute.m runs the MATLAB code to perform the filter simulation and also calls the ISS code to do the same, simultaneously. The graphical results that are obtained contain outputs for both the MATLAB as well as the ISS simulation.
